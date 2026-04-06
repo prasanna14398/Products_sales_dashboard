@@ -1,0 +1,26 @@
+📊 Product Sales Dashboard (Power BI)
+🧠 Project Overview
+This dashboard provides a detailed analysis of product sales performance, helping to identify top-performing products, salespersons, and regions.
+It was built using Power BI for interactive data visualization and analysis.
+
+🧩 Key Insights
+💼 Top Salespersons: Identified high performers contributing to overall revenue.
+📦 Product Performance: Compared total sales by product category.
+🌎 Regional Sales: Visualized contribution of each region to total sales.
+📈 Trend Analysis: Tracked total sales over time to monitor growth.
+⚙️ Tools Used
+Microsoft Power BI
+Excel / CSV dataset (source)
+Data cleaning & transformation using Power Query
+📸 Dashboard Preview
+Product Sales Dashboard
+
+🚀 How to Use
+Download the .pbix file from this repository.
+Open it in Power BI Desktop.
+Explore interactive visuals and filters.
+🧾 Summary
+Total Sales: 13M
+Total Units Sold: 4705
+Top Region: Central
+Top Product: Shoes
